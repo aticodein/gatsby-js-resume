@@ -1,5 +1,7 @@
 # Gatsby Markdown Personal Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/248f399b-b754-488f-baa3-f700550edaca/deploy-status)](https://app.netlify.com/sites/gatsby-js-resume/deploys)
+
 This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Markdown](https://www.markdownguide.org/), [Styled Components](https://styled-components.com/), [Talwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) & [React Font Awesome](https://github.com/FortAwesome/react-fontawesome).
 
 ## Demo
