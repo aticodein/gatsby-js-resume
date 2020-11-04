@@ -2,7 +2,7 @@
 category: 'hero section'
 title: 'Fullstack Developer'
 subtitle: 'I am Attila Szaloki'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+content: 'Designing, Building and managing a number of European wide clients projects. Complete Full-Stack website build along with associated services including social media and communications campaigns. Creative, flexible and supportive service with practical and strategic consultations.'
 linkTo: '/resume/'
 linkText: 'View My Profile'
 ---
